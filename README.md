@@ -6,6 +6,8 @@ as wel as a client component.
 ## Setup
 
 Navigate to /server & run ```pip install -r requirements.txt``` to install all of the required python dependencies. 
+OR
+If you are using a virtual environment nevigate to /venv/Scripts & run ```activate.bat```. Then navigate to /server & run ```pip install -r requirements.txt``` to install all of the required python dependencies. 
 
 ### Client 
 
