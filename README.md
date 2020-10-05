@@ -37,4 +37,6 @@ Laragon>Menu>Preferences..>Services & Ports>Tick: "Redis"
 Pycharm>Run>Edit Configurations...>  
 Tick: Allow parallel  
 // Name "main.py" files appropriately -so that they are easier to sort in the editor  
-// Now you can run a python file multiple times, use the stop button to keep track of what is running.
+
+Now you can run a python file multiple times.
+Use the stop button to keep track of what is running.
