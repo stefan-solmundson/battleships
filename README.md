@@ -29,3 +29,12 @@ The game works like this:
 
 Clients communicate with game servers using gRPC (a stream-stream connection). They send attacks and reports, and 
 receive the result of their actions (hit/miss) and information about whose turn it is. 
+
+## Running The Game - with Pycharm & Laragon
+Laragon>Menu>Preferences..>Services & Ports>Tick: "Redis"  
+<sub>Redis is effectively a temporary RAM JSON file used to store information & communicate between programs.</sub>  
+
+Pycharm>Run>Edit Configurations...>  
+Tick: Allow parallel  
+// Name "main.py" files appropriately -so that they are easier to sort in the editor  
+// Now you can run a python file multiple times, use the stop button to keep track of what is running.
