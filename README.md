@@ -4,10 +4,10 @@ This repository contains the code for playing a distributed game of Battleships 
 as wel as a client component. 
 
 ## Setup
-
-Navigate to /server & run ```pip install -r requirements.txt``` to install all of the required python dependencies. 
-OR
-If you are using a virtual environment nevigate to /venv/Scripts & run ```activate.bat```. Then navigate to /server & run ```pip install -r requirements.txt``` to install all of the required python dependencies. 
+##### If you are using a virtual environment:  
+Navigate to */venv/Scripts* & run ```activate.bat```.  
+##### Regardless: 
+Navigate to */server* & run ```pip install -r requirements.txt``` to install all of the required python dependencies.  
 
 ### Client 
 
