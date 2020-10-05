@@ -3,6 +3,10 @@
 This repository contains the code for playing a distributed game of Battleships using gRPC. It has a server component
 as wel as a client component. 
 
+## Setup
+
+Navigate to /server & run ```pip install -r requirements.txt``` to install all of the required python dependencies. 
+
 ### Client 
 
 The client contains a class which can be used to build a game client around. The `main.py` file contains a reference
